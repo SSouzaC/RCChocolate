@@ -1,0 +1,31 @@
+.recheio-container{
+        background-color: bisque;
+        margin: 8px 0;
+        padding: 15px 20px;
+        display: flex;
+        border-radius: 5px;
+        justify-content: space-between;
+        color: black;
+        align-items: center;
+}
+
+.recheio-title{
+        cursor: pointer;
+}
+
+.remove-recheio-button{
+        background-color: bisque;
+        border: none;
+        font-size: 18px;
+        color: #000000;
+        margin: 0 5px;
+}
+
+.see-recheio-details-button{
+        background-color: bisque;
+        border: none;
+        font-size: 18px;
+        color: #000000;
+        margin: 0 5px;
+}
+
